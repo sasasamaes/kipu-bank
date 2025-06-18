@@ -69,7 +69,7 @@ Retorna información general del banco (límites, balances, estadísticas).
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/kipu-bank.git
+git clone https://github.com/sasasamaes/kipu-bank.git
 cd kipu-bank
 
 # Instalar dependencias
@@ -208,9 +208,9 @@ Este proyecto está licenciado bajo la Licencia MIT.
 
 ## 👨‍💻 Autor
 
-**Tu Nombre**
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- Email: tu-email@ejemplo.com
+**Francisco Campos**
+- GitHub: [@sasasamaes](https://github.com/sasasamaes)
+- Email: hey@francampos.me
 
 ## 🤝 Contribuciones
 
