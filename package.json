@@ -1,0 +1,24 @@
+{
+  "name": "kipu-bank",
+  "version": "1.0.0",
+  "description": "Un sistema de vault personal para depositar y retirar ETH con límites de seguridad",
+  "main": "index.js",
+  "scripts": {
+    "compile": "npx hardhat compile",
+    "deploy": "npx hardhat run scripts/deploy.js",
+    "deploy:testnet": "npx hardhat run scripts/deploy.js --network sepolia",
+    "test": "npx hardhat test",
+    "verify": "npx hardhat verify"
+  },
+  "keywords": ["solidity", "ethereum", "smart-contracts", "defi", "vault"],
+  "author": "Tu Nombre",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "dotenv": "^16.3.1"
+  }
+} 
